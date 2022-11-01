@@ -9,7 +9,7 @@
     ]
   },
   {
-    "family": "GoogleSansRegular",
+    "family": "googleSansRegular",
     "fonts": [
       {
         "asset": "GoogleSansRegular.ttf"
